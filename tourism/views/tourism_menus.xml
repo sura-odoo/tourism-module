@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <menuitem id="tourism_menu_root" name="Tourism" web_icon="tourism,static/description/logo.png">
+        <menuitem id="tourism_first_level_menu" name="Bookings">
+            <menuitem id="tourism_menu_action" action="tourism_action" name="Something"/>
+        </menuitem>
+    </menuitem>
+</odoo>
